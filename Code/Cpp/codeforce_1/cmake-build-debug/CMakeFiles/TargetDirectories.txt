@@ -1,0 +1,3 @@
+D:/Kiara_bf/Code/Cpp/codeforce_1/cmake-build-debug/CMakeFiles/codeforce_1.dir
+D:/Kiara_bf/Code/Cpp/codeforce_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Kiara_bf/Code/Cpp/codeforce_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
